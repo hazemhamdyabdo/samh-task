@@ -23,7 +23,6 @@
     "vue-router": "^4.3.0"
   },
   "devDependencies": {
-    "@nuxtjs/date-fns": "^1.5.0",
     "@nuxtjs/i18n": "^8.1.1",
     "@nuxtjs/tailwindcss": "^6.11.5-1708058948.25b9f9e",
     "nuxt-lucide-icons": "^1.0.4",
