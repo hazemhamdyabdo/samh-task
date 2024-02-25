@@ -2,6 +2,8 @@
 
 SAMH Travel Agency is a leading online travel website dedicated to simplifying the travel experience for its users. Whether you're planning a vacation, business trip, or weekend getaway, SAMH has you covered with its extensive range of services and features.
 
+Live website [https://samh-task.vercel.app/]
+
 ## Table of contents
 
 - navigation bar with localization
