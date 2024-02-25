@@ -2,8 +2,12 @@
 
 SAMH Travel Agency is a leading online travel website dedicated to simplifying the travel experience for its users. Whether you're planning a vacation, business trip, or weekend getaway, SAMH has you covered with its extensive range of services and features.
 
-For a full description of the module, visit the
-[project page](https://www.drupal.org/project/admin_menu).
+## Table of contents
+
+- navigation bar with localization
+- hero section
+- form card to book ticket
+- blogs section with 3 cards
 
 ## Setup
 

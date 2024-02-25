@@ -15,7 +15,7 @@ watch(locale, (val) => {
     <ul class="flex justify-between">
       <div class="flex items-center gap-6">
         <h2 class="cursor-pointer">
-          <NuxtLink to="/">{{ $t("SAMH Logo") }}</NuxtLink>
+          <NuxtLink to="">{{ $t("SAMH Logo") }}</NuxtLink>
         </h2>
         <select v-model="locale">
           <option value="ar">{{ $t("ar") }}</option>
@@ -24,13 +24,13 @@ watch(locale, (val) => {
       </div>
       <div class="flex items-center gap-6 links">
         <li>
-          <NuxtLink to="/">{{ $t("Home") }}</NuxtLink>
+          <NuxtLink to="">{{ $t("Home") }}</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/">{{ $t("Book form") }}</NuxtLink>
+          <NuxtLink to="">{{ $t("Book form") }}</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/">{{ $t("Blogs") }} </NuxtLink>
+          <NuxtLink to="">{{ $t("Blogs") }} </NuxtLink>
         </li>
       </div>
       <Button class="px-7">{{ $t("Sign up") }}</Button>

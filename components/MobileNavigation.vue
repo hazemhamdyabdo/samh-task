@@ -14,13 +14,13 @@ import { Menu } from "lucide-vue-next";
           <SheetDescription>
             <ul class="flex items-center flex-col gap-12 mt-12">
               <li>
-                <nuxt-link to="/">{{ $t("Home") }}</nuxt-link>
+                <nuxt-link to="">{{ $t("Home") }}</nuxt-link>
               </li>
               <li>
-                <nuxt-link to="/">{{ $t("Blogs") }}</nuxt-link>
+                <nuxt-link to="">{{ $t("Blogs") }}</nuxt-link>
               </li>
               <li>
-                <nuxt-link to="/">{{ $t("Book form") }}</nuxt-link>
+                <nuxt-link to="">{{ $t("Book form") }}</nuxt-link>
               </li>
               <li>
                 <Button class="px-7">{{ $t("Sign up") }}</Button>
