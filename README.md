@@ -1,6 +1,9 @@
-# Nuxt 3 Minimal Starter
+# SAMH-سمح travel agency
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+SAMH Travel Agency is a leading online travel website dedicated to simplifying the travel experience for its users. Whether you're planning a vacation, business trip, or weekend getaway, SAMH has you covered with its extensive range of services and features.
+
+For a full description of the module, visit the
+[project page](https://www.drupal.org/project/admin_menu).
 
 ## Setup
 
