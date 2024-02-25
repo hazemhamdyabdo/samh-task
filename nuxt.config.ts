@@ -3,7 +3,12 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   // ssr: false,
   nitro: {
-    preset: "node-server",
+    storage: {
+      data: {
+        driver: "vercelKV",
+        /* Vercel KV driver options */
+      },
+    },
   },
 
   modules: [
