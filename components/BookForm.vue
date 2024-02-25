@@ -72,7 +72,7 @@ watch(
 </script>
 
 <template>
-  <div class="mt-10 relative">
+  <section class="mt-10 relative">
     <Card class="p-10 card">
       <CardContent class="space-y-7">
         <section class="flex flex-wrap gap-10">
@@ -226,7 +226,7 @@ watch(
         </section>
       </CardContent>
     </Card>
-  </div>
+  </section>
 </template>
 
 <style scoped>
