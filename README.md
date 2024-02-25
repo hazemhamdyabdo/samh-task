@@ -9,6 +9,10 @@ SAMH Travel Agency is a leading online travel website dedicated to simplifying t
 - form card to book ticket
 - blogs section with 3 cards
 
+## Planning diagram
+
+[https://drive.google.com/file/d/1edI6oEfqjpBpVpUCJH-pih9xYRoOveYT/view?usp=sharing]
+
 ## Setup
 
 Make sure to install the dependencies:
